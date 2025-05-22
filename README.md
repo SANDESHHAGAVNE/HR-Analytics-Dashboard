@@ -68,7 +68,7 @@ This dashboard addresses the need to:
 ### 🟦 Overview Page 1:
 - **Total Employees**: 311
 - **Average Salary**: $69.02K
-- **Attrition Rate**: 50.24% ⚠️ *(This is a very high number and a key area to highlight)*
+- **Attrition Rate**: 50.24% ⚠️ 
 
 #### 📌 Employee Demographics:
 - **Sex**: Slightly more males (43.41%) than females (56.59%)
@@ -108,4 +108,14 @@ This dashboard addresses the need to:
 
 ---
   
+
+## 📊 Dashboard Preview
+
+<img src="Overview page 1.png" width="800">
+
+<img src="Attrition page 2.png" width="800">
+
+<img src="Employee Details page 3.png" width="800">
+
+---
 
