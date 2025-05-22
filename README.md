@@ -37,6 +37,10 @@ This dashboard addresses the need to:
      - Between `HRdataset[DateofTermination]` and `Date[Date]`
    - Managed inactive relationships using `USERELATIONSHIP()` in relevant DAX measures for terminated employees or attrition-specific KPIs.
 
+## 🧩 Data Modelling
+
+<img src="Data%20Modelling.png" width="800">
+
 4. **DAX Measures and Calculations**
    - Created custom **DAX measures** to calculate KPIs:
      - `Total Employees`
