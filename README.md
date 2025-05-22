@@ -109,6 +109,28 @@ This dashboard addresses the need to:
 - Useful for deep-dive analysis and identifying patterns at an individual level
 - Supports targeted HR actions and investigation into specific attrition cases
 
+  
+---
+
+
+## ✅ Suggestions and Recommendations
+
+1. **Keep Employee Engagement Top of Mind**  
+   Implement regular feedback sessions, recognition programs, select the right managers, and conduct team-building activities to foster a positive work environment and increase employee satisfaction.
+
+2. **Career Development Opportunities**  
+   Provide clear paths for career advancement, training programs, and mentorship opportunities to help employees grow professionally and feel invested in their future with the organization.
+
+3. **Discuss Compensation and Benefits**  
+   Offer competitive compensation packages, performance bonuses, and additional perks to attract and retain top talent in the organization.
+
+4. **Evaluate Feedback from Employee Exit Interviews**  
+   Conduct exit interviews to gather feedback from departing employees and use this information to identify trends, patterns, and areas for improvement. Before someone leaves the organization, ask:
+   
+   - **(i)** What is the primary reason the employee is leaving?  
+   - **(ii)** What does the company do well?  
+   - **(iii)** What could the company improve to increase employee satisfaction?
+
 
 ---
   
