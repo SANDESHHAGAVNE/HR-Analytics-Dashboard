@@ -111,11 +111,11 @@ This dashboard addresses the need to:
 
 ## 📊 Dashboard Preview
 
-<img src="Overview page 1.png" width="800">
+<img src="Overview%20Page%201.png" width="800">
 
-<img src="Attrition page 2.png" width="800">
+<img src="Attrition%20Page%202.png" width="800">
 
-<img src="Employee Details page 3.png" width="800">
+<img src="Employee%20Details%20Page%203.png" width="800">
 
 ---
 
