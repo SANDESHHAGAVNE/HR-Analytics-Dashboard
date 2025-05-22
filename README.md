@@ -12,7 +12,9 @@ This dashboard addresses the need to:
 - ❗ Examine reasons behind employee terminations for better decision-making.
 - 📝 Provide detailed employee-level insights for targeted HR interventions.
 
+
 ---
+
 
 ## 🛠️ Steps Taken to Build the HR Analytics Dashboard
 
@@ -57,7 +59,53 @@ This dashboard addresses the need to:
    - Applied consistent formatting, custom themes, and color schemes.
    - Added **navigation buttons** (Overview, Attrition, Employee Details) for smooth report interaction.
 
+
 ---
 
+
+## 📊 Dashboard Insights
+
+### 🟦 Overview Page 1:
+- **Total Employees**: 311
+- **Average Salary**: $69.02K
+- **Attrition Rate**: 50.24% ⚠️ *(This is a very high number and a key area to highlight)*
+
+#### 📌 Employee Demographics:
+- **Sex**: Slightly more males (43.41%) than females (56.59%)
+- **Citizenship**: Overwhelmingly U.S. Citizens (94.86%)
+- **Marital Status**:
+  - Single: 44.0%
+  - Married: 39.87%
+  - Divorced: 9.65%
+- **Department**:
+  - Production is the largest department with 209 employees
+  - IT/IS follows with 50 employees
+- **Race**: White (187) is the dominant race category
+- **Age Band**: 40–49 is the largest group with 128 employees
+
+
+### 🟥 Attrition Page 2:
+- **Terminated Employees**: 104
+- **Active Employees**: 207
+- **Attrition Rate**: 50.24% (consistent with the overview page)
+- **Terminated Employees By Sex**: 
+  - FeMales: 57.69%
+  - males: 42.31%
+- **By Department**:
+  - Production has the highest attrition rate: 65.87%
+  - Software Engineering follows with 57.14%
+- **By Termination Reason**:
+  - Top reason: "Another Position" (20 terminations)
+  - Second: "Unhappy" (14 terminations)
+
+
+### 🟩 Employee Details Page 3:
+- Provides a detailed view of individual employees:
+  - Employee ID, Name, Gender, Date of Birth, Citizenship, Department, Date of Hire, Age Band, Employment Status
+- Useful for deep-dive analysis and identifying patterns at an individual level
+- Supports targeted HR actions and investigation into specific attrition cases
+
+
+---
   
 
