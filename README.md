@@ -12,6 +12,7 @@ This dashboard addresses the need to:
 - ❗ Examine reasons behind employee terminations for better decision-making.
 - 📝 Provide detailed employee-level insights for targeted HR interventions.
 
+---
 
 ## 🛠️ Steps Taken to Build the HR Analytics Dashboard
 
@@ -50,9 +51,13 @@ This dashboard addresses the need to:
      - **Donut and bar charts** to show distribution by gender, department, race, marital status, and more.
      - **Line charts** to track attrition trends by department.
      - **Tables with conditional formatting** to display employee-level details (e.g., EmpID, Age Band, Citizenship).
-     - **Slicers and filters** for Year for better interactivity.
+     - **Slicers and filters** for Year, Department, and Position for better interactivity.
 
 6. **Final Touches**
    - Applied consistent formatting, custom themes, and color schemes.
    - Added **navigation buttons** (Overview, Attrition, Employee Details) for smooth report interaction.
+
+---
+
+  
 
